@@ -8,6 +8,6 @@ public class Task6 {
         Scanner console = new Scanner(System.in);
         double kilometer = console.nextDouble();
         if (kilometer > 0 && kilometer < 1000)
-            System.out.println(kilometer + " километров равно: " + kilometer / CONST + " миль.");
+            System.out.println(kilometer / CONST);
     }
 }

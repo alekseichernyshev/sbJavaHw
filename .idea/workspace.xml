@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6bf25a3-a40a-4634-b842-fc2111cadebd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HW1/Task9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW1/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW1/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW1/Task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/Task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW1/Task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/Task6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW1/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW1/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +42,29 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task9">
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.Task5" />
+  <component name="RunManager" selected="Application.Solution (1)">
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="javaHwSb" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW1.Solution" />
+      <module name="javaHwSb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW1.Task1" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -64,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.Task7" />
-      <module name="javaHwSb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW1.Task8" />
       <module name="javaHwSb" />
@@ -90,26 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.Task9" />
-      <module name="javaHwSb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task9" />
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Task6" />
-        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Task8" />
       </list>
     </recent_temporary>
   </component>
@@ -123,16 +122,5 @@
       <updated>1670937558099</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/HW1/Task4.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

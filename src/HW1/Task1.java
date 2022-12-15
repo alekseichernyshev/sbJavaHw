@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 Вычислите и выведите на экран объём шара, получив его радиус с консоли
  */
-public class Task1 {
+ public class Task1 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         double r = console.nextDouble();

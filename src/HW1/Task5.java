@@ -7,8 +7,8 @@ public class Task5 {
         final double CONST = 2.54;
         Scanner console = new Scanner(System.in);
         double inch = console.nextDouble();
-        if(inch > 0 && inch < 100)
-        System.out.println(inch + " дюймов равно: " + inch * CONST + " сантиметров." );
+        if(inch > 0 && inch < 1000)
+        System.out.println(inch * CONST);
 
 
     }

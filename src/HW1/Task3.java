@@ -6,7 +6,7 @@ public class Task3 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
         String userName = console.next();
-        System.out.println("Привет," + userName + "!");
+        System.out.println("Привет, " + userName + "!");
 
 
     }
