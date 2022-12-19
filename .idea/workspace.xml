@@ -64,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW2.Task7" />
+    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.Task11" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -106,10 +106,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Task11" />
         <item itemvalue="Application.Task10" />
         <item itemvalue="Application.Task9" />
         <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
       </list>
     </recent_temporary>
   </component>
