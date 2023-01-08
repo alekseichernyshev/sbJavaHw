@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6bf25a3-a40a-4634-b842-fc2111cadebd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HW3/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW4/Task1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,33 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW2.Solution" />
+      <option name="MAIN_CLASS_NAME" value="HW3.Solution" />
+      <module name="javaHwSb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW4.Task1" />
+      <module name="javaHwSb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.tes" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -58,34 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW2.Task11" />
-      <module name="javaHwSb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW2.Task12" />
-      <module name="javaHwSb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW2.Task13" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.test" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -101,9 +103,9 @@
       <list>
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Task13" />
-        <item itemvalue="Application.Task12" />
-        <item itemvalue="Application.Task11" />
+        <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.tes" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
