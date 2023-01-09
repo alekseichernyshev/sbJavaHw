@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b6bf25a3-a40a-4634-b842-fc2111cadebd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HW3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW4/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW4/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4todo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW3.Task4todo" />
+    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW3.Task7" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -92,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW3.Task7" />
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW3.Task8" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -108,9 +106,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task4todo" />
         <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
