@@ -2,7 +2,7 @@ package HW3;
 
 import java.util.Scanner;
 
-public class Task4todo {
+public class Solution {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
 

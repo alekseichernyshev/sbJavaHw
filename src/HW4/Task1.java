@@ -5,9 +5,8 @@ import java.util.Scanner;
 public class Task1 {
     public static void main(String[] args) {
         Scanner console = new Scanner(System.in);
-        int n = console.nextByte();
+        int n = console.nextInt();
         double sum = 0;
-
         for (int i = 0; i < n; i++) {
             sum += console.nextDouble();
         }
