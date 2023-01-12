@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6bf25a3-a40a-4634-b842-fc2111cadebd" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/HW4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW4/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW4.Task3" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW4.Task4" />
       <module name="javaHwSb" />
       <extension name="coverage">
         <pattern>
@@ -102,10 +101,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Task4" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Project" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
