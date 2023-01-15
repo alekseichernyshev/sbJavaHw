@@ -9,7 +9,10 @@ public class Task12 {
         if(password.length() > 7)
             if(!password.equals(password.toLowerCase()) && !password.equals(password.toUpperCase()))
                 if (password.contains("_") | password.contains("*") | password.contains("-") )
-                    if(password.contains("0") | password.contains("1") | password.contains("2") | password.contains("3") | password.contains("4") | password.contains("5") | password.contains("6") | password.contains("7") | password.contains("8") | password.contains("9"))
+                    if(password.contains("0") | password.contains("1") | password.contains("2") |
+                            password.contains("3") | password.contains("4") | password.contains("5") |
+                            password.contains("6") | password.contains("7") | password.contains("8") |
+                            password.contains("9"))
 
                 {
                     System.out.println("пароль надежный");
